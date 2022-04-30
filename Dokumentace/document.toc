@@ -1,0 +1,33 @@
+\babel@toc {czech}{}\relax 
+\contentsline {section}{\numberline {1}Zadání}{2}{section.1}%
+\contentsline {section}{\numberline {2}Analýza úlohy}{4}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Specifikace vstupních dat}{4}{subsection.2.1}%
+\contentsline {subsubsection}{\numberline {2.1.1}Tabulka uzlů sítě}{4}{subsubsection.2.1.1}%
+\contentsline {subsubsection}{\numberline {2.1.2}Tabulka hran sítě}{5}{subsubsection.2.1.2}%
+\contentsline {subsection}{\numberline {2.2}Reprezentace grafu}{5}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Algoritmy pro hledání maximálního toku v síti}{5}{subsection.2.3}%
+\contentsline {subsubsection}{\numberline {2.3.1}Ford-Fulkerson}{5}{subsubsection.2.3.1}%
+\contentsline {subsubsection}{\numberline {2.3.2}Edmonds-Karp}{6}{subsubsection.2.3.2}%
+\contentsline {subsubsection}{\numberline {2.3.3}Škálování kapacity}{6}{subsubsection.2.3.3}%
+\contentsline {subsubsection}{\numberline {2.3.4}Dinicův (též Dinitzův) algoritmus}{7}{subsubsection.2.3.4}%
+\contentsline {section}{\numberline {3}Popis implementace}{7}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Datové struktury}{7}{subsection.3.1}%
+\contentsline {subsubsection}{\numberline {3.1.1}Bod}{7}{subsubsection.3.1.1}%
+\contentsline {subsubsection}{\numberline {3.1.2}Hrana}{8}{subsubsection.3.1.2}%
+\contentsline {subsubsection}{\numberline {3.1.3}Fronta}{8}{subsubsection.3.1.3}%
+\contentsline {subsubsection}{\numberline {3.1.4}Dynamické pole}{8}{subsubsection.3.1.4}%
+\contentsline {subsubsection}{\numberline {3.1.5}Tabulka}{8}{subsubsection.3.1.5}%
+\contentsline {subsubsection}{\numberline {3.1.6}Graf}{9}{subsubsection.3.1.6}%
+\contentsline {subsection}{\numberline {3.2}Ukládání dat}{9}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Vytvoření grafu}{9}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Nalezení maximálního toku}{10}{subsection.3.4}%
+\contentsline {subsubsection}{\numberline {3.4.1}GraphBfs}{10}{subsubsection.3.4.1}%
+\contentsline {subsubsection}{\numberline {3.4.2}GraphDfs}{10}{subsubsection.3.4.2}%
+\contentsline {section}{\numberline {4}Uživatelská příručka}{11}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Složení programu}{11}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Překlad a spuštění programu}{11}{subsection.4.2}%
+\contentsline {section}{\numberline {5}Závěr}{12}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Běh programu}{12}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Problémy}{12}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Možná vylepšení}{12}{subsection.5.3}%
+\contentsline {subsection}{\numberline {5.4}Shrnutí}{12}{subsection.5.4}%

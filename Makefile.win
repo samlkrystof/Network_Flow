@@ -1,0 +1,9 @@
+BIN = flow.exe
+OBJ = intQueue.obj graph.obj arrayList.obj hashTable.obj inputOutput.obj main.obj
+
+.c.obj:
+	cl $< /c
+
+$(BIN): $(OBJ)
+	cl $(OBJ) /Fe$(BIN)
+
