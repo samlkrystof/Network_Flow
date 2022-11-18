@@ -1,3 +1,2 @@
-# PC
-Semestrální práce z předmětu Programování v jazyce C  
-Hledání maximálního toku v grafu silniční sítě
+## Max flow graph
+This repository contains my solution for finding maximal flow between two point in the graph. This repo was created as a solution of my assignment in university course on Programming in C. 
